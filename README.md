@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by [Ananthapadmanabhan](https://github.com/Ananthapadmanabhan333)
+Built with  by [Ananthapadmanabhan](https://github.com/Ananthapadmanabhan333)
